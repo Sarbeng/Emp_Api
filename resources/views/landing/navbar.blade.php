@@ -20,7 +20,7 @@
                 <a href="">Login</a>
             </li>
             <li class="">
-                <a href="" class="bg-accent text-white px-8 py-3 rounded-lg">Sign Up</a>
+                <a href="" class="bg-accent text-white px-8 py-3 rounded-lg text-lead-text">Sign Up</a>
             </li>
         </ul>
     </nav>
