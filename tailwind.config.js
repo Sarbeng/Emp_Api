@@ -20,7 +20,8 @@ export default {
                 secondary:"#F2E9E7",
                 text:"#030000",
                 background:"#FFFFFF",
-                bg_grey:"#F4F4F4"
+                bg_grey:"#F4F4F4",
+                bg_primary: 'rgba(253, 97, 0, 0.10);'
             },
             fontFamily: {
                 'cursive':['Sacramento','cursive']

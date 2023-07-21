@@ -8,5 +8,8 @@
 <body class="text-text">
     @include('landing.navbar')
     @include('landing.heroSection')
+    @include('landing.services')
+    @include('landing.aboutUs')
+    @include('landing.pricing')
 </body>
 </html>
