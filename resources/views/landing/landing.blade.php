@@ -11,5 +11,7 @@
     @include('landing.services')
     @include('landing.aboutUs')
     @include('landing.pricing')
+    @include('landing.footer')
+    
 </body>
 </html>
